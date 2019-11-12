@@ -2,6 +2,9 @@
 
 ### FriendFinder is an app that matches users with an ideal friend
 
+*Deployed here:
+https://friendfinderhwgw19.herokuapp.com
+
 ### Technologies Used
 * Javascript
 * JQuery
